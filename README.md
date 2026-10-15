@@ -1,5 +1,6 @@
 # Crazyflie – onde colocar cada arquivo
 
+Este modelo foi feito para o [laser_uav_system](https://github.com/LASER-Robotics/laser_uav_system).
 Cada subpasta desta pasta tem o nome do pacote de destino e já reproduz o caminho interno dele. Basta copiar o conteúdo de cada subpasta por cima do pacote de mesmo nome.
 
 **Raiz dos pacotes no sistema:** `~/git/laser_uav_system/ros_packages/`
